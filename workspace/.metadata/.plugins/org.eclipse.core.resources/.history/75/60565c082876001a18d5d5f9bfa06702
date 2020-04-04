@@ -1,0 +1,15 @@
+package com.itpractice;
+/*
+ * 内容辅助键：alr+/
+ *     main方法： main，alr+/
+ *     输出语句：syso,alr+/
+ * 
+ * 
+ * 
+ */
+public class KeyDemo {
+	public static void main(String[] args) {
+		System.out.println("HelloWorld");
+	}
+
+}
