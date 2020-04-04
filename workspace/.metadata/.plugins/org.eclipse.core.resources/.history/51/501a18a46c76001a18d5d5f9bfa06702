@@ -1,0 +1,24 @@
+package itpractice_01;
+/*
+ * 
+ *  %:用于获取两个数据相除时的余数
+ *  /：用于获取两个数据相除时的商
+ *  +: 做加法运算
+ * 
+ * 
+ */
+public class OperatorDemo2 {
+
+	public static void main(String[] args) {
+	 
+	 int a =3;
+	 int b =5;
+	 System.out.println(b/a);
+	 System.out.println(b%a);
+	 System.out.println(a+b);
+	 char c = 'A';
+	 System.out.println(a + c);
+	
+	}
+
+}
