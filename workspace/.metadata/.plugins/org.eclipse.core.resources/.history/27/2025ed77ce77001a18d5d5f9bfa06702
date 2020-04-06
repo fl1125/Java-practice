@@ -1,0 +1,22 @@
+package com.itpractice2;
+ /*
+  * 赋值运算符：
+  *    基本的赋值运算符：=
+  *    扩展的赋值运算符：+=，-=，*=，/=,.....
+  * 
+  * 
+  * 
+  * 
+  * 
+  */
+public class OperatorDemo {
+
+	public static void main(String[] args) {
+	int a = 10;  
+
+//	+=的操作
+	a += 20;
+	System.out.println("a"+a);
+	}
+
+}

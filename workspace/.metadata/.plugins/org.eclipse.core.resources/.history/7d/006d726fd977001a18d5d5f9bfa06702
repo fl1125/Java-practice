@@ -1,0 +1,30 @@
+package com.itpractice4;
+/*
+ * &&
+ * ||
+ * 
+ */
+public class OpeatorDemo2 {
+
+	public static void main(String[] args) {
+	    int a = 3;
+	    int b = 4;
+        int c = 5;
+//		&&(有false则flase)
+		    System.out.println((a>b) && (a>c));
+		    System.out.println((a<b) && (a>c));
+		    System.out.println((a>b) &&(a<c));
+		    System.out.println((a<b) && (a<c));
+		    System.out.println("------------------"); 
+		    
+	// ||(有true则true)
+		    System.out.println((a>b) || (a>c));
+		    System.out.println((a<b) || (a>c));
+		    System.out.println((a>b) || (a<c));
+		    System.out.println((a<b) || (a<c));
+		    System.out.println("------------------");
+		    
+
+	}
+
+}
