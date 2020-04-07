@@ -1,0 +1,13 @@
+package com.itpractice1;
+
+
+
+//顺序结构L从上往下，依次执行。
+public class OrderDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

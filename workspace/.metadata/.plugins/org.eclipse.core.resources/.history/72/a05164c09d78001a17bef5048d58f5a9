@@ -1,0 +1,20 @@
+package com.itpractice;
+import java.util.Scanner;
+public class ScannerDemo2 {
+
+	public static void main(String[] args) {
+	  Scanner sc = new Scanner(System.in);
+	  int a = sc.nextInt();
+	  System.out.println("请输入第一个数据");
+	  Scanner rc = new Scanner(System.in);
+	  int b = sc.nextInt();
+	  System.out.println("请输入第一个数据");
+	  
+	  System.out.println("这两个数的和是："+(a+b));
+	  
+	  
+	
+
+	}
+
+}

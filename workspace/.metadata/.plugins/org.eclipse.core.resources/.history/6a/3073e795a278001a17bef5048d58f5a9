@@ -1,0 +1,10 @@
+package com.itpractice;
+// 键盘录入三个数据，并获取这三个数据中的最大值
+public class ScannerDemo3 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
