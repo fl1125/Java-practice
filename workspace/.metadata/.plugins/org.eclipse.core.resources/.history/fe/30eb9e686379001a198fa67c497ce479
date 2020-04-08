@@ -1,0 +1,25 @@
+package com.itpractice2;
+/*  if语句格式三：
+ *     if(关系表达式1){
+ *     语句体1;}
+ *     else if(关系表达式2){
+ *     语句体2;}
+ *     ...
+ *     else{
+ *     语句体n+1;}
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+public class IfDemo3 {
+
+	public static void main(String[] args) {
+       System.out.println("开始");
+       System.out.println("结束");
+
+	}
+
+}
