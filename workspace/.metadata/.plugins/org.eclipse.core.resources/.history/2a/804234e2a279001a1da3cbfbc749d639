@@ -1,0 +1,18 @@
+package com.itpractice4;
+
+/* 输出所有的水仙花数
+       水仙花数：就是一个三位数，其各位数字的立方和是该数字的本身。
+       举例：153  153=1*1*1+5*5*5+3*3*3
+ 
+ 
+*/
+
+public class ForTest4 {
+
+	public static void main(String[] args) {
+       for(int x =100;x>=999; x++;){
+    	   
+       } 
+	}
+
+}

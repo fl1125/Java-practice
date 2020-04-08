@@ -1,0 +1,13 @@
+package com.itpractice4;
+
+// 输出所有的水仙花数
+
+
+
+public class ForTest4 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

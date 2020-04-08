@@ -1,0 +1,14 @@
+package com.itpractice4;
+
+public class ForDemo {
+
+	public static void main(String[] args) {
+		int a = 0;
+		
+		for(a++;a<11;){
+			System.out.println("Helloworld");
+		}
+
+	}
+
+}
