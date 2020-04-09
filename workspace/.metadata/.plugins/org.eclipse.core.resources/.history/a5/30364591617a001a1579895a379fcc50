@@ -1,0 +1,16 @@
+package com.itpractice7;
+/*
+ * continue的使用场景：
+ *    循环中；
+ *    注意：离开使用场景是没有意义的
+ *    
+ * 
+ * 
+ */
+public class ContinueDemo {
+
+	public static void main(String[] args) {
+	
+	}
+
+}

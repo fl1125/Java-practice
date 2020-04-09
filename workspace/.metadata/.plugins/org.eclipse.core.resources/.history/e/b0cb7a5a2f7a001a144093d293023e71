@@ -1,0 +1,9 @@
+package com.itpractice5;
+
+public class WhileDemo {
+
+	public static void main(String[] args) {
+	
+	}
+
+}

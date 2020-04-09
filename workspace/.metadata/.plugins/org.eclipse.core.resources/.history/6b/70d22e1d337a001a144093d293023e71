@@ -1,0 +1,20 @@
+package com.itpractice6;
+/*
+ * do...while循环的语句格式
+ *   do{
+ *      循环体语句
+ *   }while(判断调教语句)；
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+public class DoWhileDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
