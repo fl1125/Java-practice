@@ -1,0 +1,12 @@
+package com.itpractice;
+
+
+//键盘录入两个数据，返回两个数中的较大值
+
+public class MethodTest {
+
+	public static void main(String[] args){
+
+	}
+
+}

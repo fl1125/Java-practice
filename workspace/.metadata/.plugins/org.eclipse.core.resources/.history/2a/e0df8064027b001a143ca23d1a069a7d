@@ -1,0 +1,18 @@
+package itpractice5;
+
+/*
+ *  二位数组：其实就是元素为一对数组的数组。
+ *  定义格式：
+ *      数据类型[][] 数组名;
+ *      
+ * 
+ * 
+ */
+public class ArrayDemo2 {
+
+	public static void main(String[] args) {
+	
+		
+	}
+
+}

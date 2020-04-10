@@ -1,0 +1,13 @@
+package com.itpractice;
+
+
+// 键盘录入三个数据，返回三个数中的最大值
+
+public class MethodTest3 {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}

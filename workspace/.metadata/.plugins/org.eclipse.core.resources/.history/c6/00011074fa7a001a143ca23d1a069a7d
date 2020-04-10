@@ -1,0 +1,9 @@
+package com.practice3;
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+       int[] arr = {1,2,3};
+	}
+
+}

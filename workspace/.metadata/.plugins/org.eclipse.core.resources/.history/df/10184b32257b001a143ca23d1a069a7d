@@ -1,0 +1,15 @@
+package com.itpractice;
+/*  
+ *  方法：其实就是完成特定功能的代码块
+ *    定义格式：
+ *       修饰符 返回值类型 方法名(参数类型 参数名1，参数名2...) 
+ * 
+ */
+public class MethodDemo {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

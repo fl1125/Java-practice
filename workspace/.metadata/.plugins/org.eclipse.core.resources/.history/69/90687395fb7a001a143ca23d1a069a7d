@@ -1,0 +1,12 @@
+package itpractice4;
+
+//数组遍历(以此输出数组中的每一个元素)
+
+public class ArrayTest {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}
