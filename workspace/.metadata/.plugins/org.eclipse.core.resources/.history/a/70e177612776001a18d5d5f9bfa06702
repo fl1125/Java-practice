@@ -1,8 +1,0 @@
-package com.itpractice;
-
-public class KeyDemo {
-	public static void main(String[] args) {
-		System.out.println("HelloWorld");
-	}
-
-}
