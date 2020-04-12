@@ -1,0 +1,18 @@
+package com.topractice;
+
+/*
+ *  打印5位数中的所有回文数
+ *       12321是回文数，个位和万位相同，十位和千位相同
+ * 
+ * 
+ * 
+ */
+public class Test2 {
+
+	public static void main(String[] args) {
+		for(int x=10000; x<=99999;x++){
+             
+
+	}
+
+}

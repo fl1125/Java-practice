@@ -1,0 +1,10 @@
+package com.itpractice4;
+
+public class ArgsDemo2 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

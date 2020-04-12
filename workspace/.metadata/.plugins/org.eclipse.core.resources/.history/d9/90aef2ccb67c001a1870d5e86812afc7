@@ -1,0 +1,43 @@
+package com.topractice;
+/*
+ * 键盘录入一个月份，输出该月份相对应的季节
+ *     一年有四季
+ *     3,4,5 春季
+ *     6,7,8 夏季
+ *     9,10,11 秋季
+ *     12,1,2 冬季
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("请输入一个月份");
+		
+		int a = sc.nextInt();
+/*		if(a>=3 && a<=5){
+			System.out.println("春季");
+		}else if(a>=6 && a<=8){
+			System.out.println("夏季");
+			
+		}else if(a>=9 && a<=11){
+			System.out.println("秋季");
+		} else if( a==12 ){
+			System.out.println("冬季");
+			
+		}else{
+			System.out.println("你输入的月份错误");
+		}
+*/
+	}
+
+}
