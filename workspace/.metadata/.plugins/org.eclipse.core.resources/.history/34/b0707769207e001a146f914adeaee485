@@ -1,0 +1,7 @@
+package com.itpractice4;
+
+public class Student {
+     String name;
+     int age;
+     
+}

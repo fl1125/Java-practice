@@ -1,0 +1,35 @@
+ package com.topractice;
+
+import java.util.Scanner;
+
+/*
+ *   需求：在编程竞赛中，有6个评委为参赛的选手打分，分数0-100的整数分。
+ *        选手的最后为：去掉一个最高分和一个最低分后的4个评委平均值。
+ *        请写代码。(不考虑小数部分)
+ * 
+ * 
+ * 
+ * 
+ */
+public class Test5 {
+
+	public static void main(String[] args) {
+	
+		int arr[] = new int[6];
+		
+		Scanner sc = new Scanner(System.in);
+		
+		for(int x=0 ; x<arr.length; x++){
+			int score = sc.nextInt();
+			arr[x] = score;
+			
+		}
+	}
+       public static int getmax(int arr[]){
+           int max = arr[0];  
+    	   if(x=1; x<arr.length;x++)
+            return max;
+       }
+       
+}
+

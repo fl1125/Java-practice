@@ -1,0 +1,21 @@
+package com.itpractice4;
+/*
+ * 
+ * 学生类的测试类
+ * 
+ * 
+ */
+public class StudentDemo {
+
+	public static void main(String[] args) {
+//		 
+	Student s = new Student();
+	s.show();
+	
+	s.age = 22;
+	s.name = "jack";
+	s.show();
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.itpractice8;
+
+public class StudentDemo {
+
+	public static void main(String[] args) {
+//		调用构造方法
+		Student s = new Student();
+		s.show();
+
+	}
+
+}

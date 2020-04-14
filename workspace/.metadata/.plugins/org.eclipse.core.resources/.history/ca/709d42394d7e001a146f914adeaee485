@@ -1,0 +1,12 @@
+package com.itpracice9;
+
+public class StudentDemo {
+
+	public static void main(String[] args) {
+	 Student s = new Student();
+	 
+	 s.Student("jack", 18);
+	 s.show();
+	}
+
+}

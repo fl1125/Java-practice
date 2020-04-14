@@ -1,0 +1,10 @@
+package com.itpractice4;
+
+public class Student {
+     String name;
+     int age;
+     
+     
+     public void show(){
+       System.out.println("姓名是："+name+"，年龄是："+age)；;  
+}

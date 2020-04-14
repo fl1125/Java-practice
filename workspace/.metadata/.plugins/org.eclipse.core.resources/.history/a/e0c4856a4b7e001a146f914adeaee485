@@ -1,0 +1,20 @@
+package com.itpractice;
+/*
+ * Ñ§ÉúÀà
+ * 
+ * 
+ */
+public class Student {
+ 
+	private String name;
+	private int age;
+	
+	public void Student(String name,int age){
+		
+	}
+	
+	public void show(){
+		System.out.println(name+"----"+age);
+	}
+
+}
