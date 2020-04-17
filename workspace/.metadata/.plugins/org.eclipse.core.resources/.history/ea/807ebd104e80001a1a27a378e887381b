@@ -1,0 +1,21 @@
+package com.itpractice3;
+
+import java.util.Scanner;
+
+/*
+ *  °Ñ×Ö·û´®·´×ª 
+ * 
+ */
+public class StringBuilderTest2 {
+
+	public static void main(String[] args) {
+	  
+		
+	}
+      public static String reverse(String s){
+    	  Scanner sc = new Scanner(System.in);
+		String s = sc.nextLine();
+		StringBuilder sb = new StringBuilder(s);
+    	  
+      }
+}

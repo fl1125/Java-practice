@@ -1,0 +1,22 @@
+package com.itpractice3;
+
+import java.util.Scanner;
+
+/*
+ *  把字符串反转 
+ * 
+ */
+public class StringBuilderTest2 {
+
+	public static void main(String[] args) {
+	  
+		Scanner sc = new Scanner(System.in);
+		System.out.println("请输入一个字符串");
+		String s = sc.nextLine();
+		StringBuilder sb = new StringBuilder(s);
+	}
+      public static String reverse(String s){
+    	  for(int strat=0,end=s.)
+    	  
+      }
+}

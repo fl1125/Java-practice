@@ -1,0 +1,17 @@
+package com.itpractice3;
+
+import java.util.Scanner;
+
+/*
+ *  °Ñ×Ö·û´®·´×ª 
+ * 
+ */
+public class StringBuilderTest2 {
+
+	public static void main(String[] args) {
+	  
+		Scanner sc = new Scanner(System.in);
+		
+	}
+
+}

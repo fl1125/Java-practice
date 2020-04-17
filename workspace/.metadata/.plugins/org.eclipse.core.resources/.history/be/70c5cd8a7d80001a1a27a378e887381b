@@ -1,0 +1,11 @@
+package com.itpractice;
+
+public class StudentDemo {
+  public static void main(String[] args){
+	  
+//	  创建学生数组
+	  Student[] students = new Student[3];
+	  
+  }
+
+}
