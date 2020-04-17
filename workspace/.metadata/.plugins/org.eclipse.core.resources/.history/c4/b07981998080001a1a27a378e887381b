@@ -12,7 +12,7 @@ public class StudentDemo {
 		
 		//把学生对象作为元素赋值给学生数组
 		students[0] = s1;
-		students[1] = s2; 
+		students[1] = s2;
 		students[2] = s3;
 		
 		//遍历学生数组
