@@ -1,0 +1,17 @@
+package com.itpractice2;
+
+import java.util.ArrayList;
+
+/*
+ *   存储自定义对象并遍历
+ * 
+ * 
+ */
+public class ArratListTest3 {
+
+	public static void main(String[] args) {
+	         ArrayList<Student> array = new ArrayList<Student>();
+	         
+	}
+
+}

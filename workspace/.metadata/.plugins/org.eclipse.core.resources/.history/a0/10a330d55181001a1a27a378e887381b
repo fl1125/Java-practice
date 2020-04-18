@@ -1,0 +1,28 @@
+package com.itpractice3;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+
+/*
+ * 创建一个集合，存储学生对象，学生对象来自于键盘录入，最后，遍历集合。
+ * 
+ */
+public class StudentDemo {
+	public static void main(String[] args) {
+
+//		键盘录入对象
+		Scanner sc = new Scanner(System.in);
+        System.out.println("请输入学生姓名及年龄");
+		
+//		创建集合
+		ArrayList<Student> array = new ArrayList<Student>();
+		
+//		创建学生对象
+		Student s =  new Student();
+		s = sc.nextLine();
+		
+	}
+
+}

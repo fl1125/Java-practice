@@ -9,10 +9,21 @@
 <fullyQualifiedTypeName name="java.awt.print.Printable"/>
 <fullyQualifiedTypeName name="javax.xml.soap.SAAJResult"/>
 <fullyQualifiedTypeName name="com.itpractice.ScannerDemo"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="sun.applet.Main"/>
-<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 <fullyQualifiedTypeName name="com.sun.javafx.binding.StringFormatter"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.itpractice3.StringBuilderTest3"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader.Array"/>
+<fullyQualifiedTypeName name="com.itpractice.ArrayListDemo"/>
+<fullyQualifiedTypeName name="com.itpractice.ArratListDemo2"/>
+<fullyQualifiedTypeName name="com.itpractice2.ArrayListDemo"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.fastinfoset.util.StringArray"/>
+<fullyQualifiedTypeName name="sun.applet.Main"/>
+<fullyQualifiedTypeName name="com.itpractice3.Student"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.stream.buffer.sax.SAXBufferCreator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.itpractice.Student"/>
 </qualifiedTypeNameHistroy>

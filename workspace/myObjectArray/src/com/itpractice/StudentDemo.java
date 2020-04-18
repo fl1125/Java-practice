@@ -15,7 +15,7 @@ public class StudentDemo {
 		students[1] = s2; 
 		students[2] = s3;
 		
-		//遍历学生数组
+		//遍历学生数组 
 		for(int x=0; x<students.length; x++) {
 			Student s = students[x];
 			//System.out.println(s);

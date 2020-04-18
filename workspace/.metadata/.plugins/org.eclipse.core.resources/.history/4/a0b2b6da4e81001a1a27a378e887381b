@@ -1,0 +1,13 @@
+package com.itpractice2;
+/*
+ *   存储自定义对象并遍历
+ * 
+ * 
+ */
+public class ArratListTest3 {
+
+	public static void main(String[] args) {
+	        
+	}
+
+}

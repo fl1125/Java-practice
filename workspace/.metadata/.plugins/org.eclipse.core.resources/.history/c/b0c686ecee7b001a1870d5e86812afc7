@@ -1,9 +1,0 @@
-package com.itpractice2;
-
-//需求：写一个方法，在控制台输出10次HelloWorld案例
-public class MethodDemo {
-
-	public static void main(String[] args) {
-	
-
-}
