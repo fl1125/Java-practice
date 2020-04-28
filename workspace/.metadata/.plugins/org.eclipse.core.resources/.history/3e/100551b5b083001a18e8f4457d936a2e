@@ -1,0 +1,24 @@
+package com.itpractice;
+
+public class ExtendsDemo2 {
+
+	public static void main(String[] args) {
+	
+	}
+
+}
+
+class PCGame{
+	public void update(){
+		System.out.println("PCGame¸üÐÂÁË");
+	}
+}
+class MoblieGame{
+	public void update(){
+		System.out.println("MoblieGame");
+		
+	}
+}
+
+class lol extends PCGame{
+}

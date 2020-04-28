@@ -1,0 +1,11 @@
+package com.itpractice4;
+
+public class InnerDemo5 {
+
+	public static void main(String[] args) {
+	  method(new Dog());
+	}
+   public static void method(Animal a){
+	   a.eat(); 
+   }
+}

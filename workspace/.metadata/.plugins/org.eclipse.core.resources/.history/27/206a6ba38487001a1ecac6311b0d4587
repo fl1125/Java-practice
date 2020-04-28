@@ -1,0 +1,12 @@
+package com.itpractice;
+
+//Set<Map.Entry<K,V>> entrySet()  
+
+public class MapDemo5 {
+
+	public static void main(String[] args) {
+	 
+
+	}
+
+}

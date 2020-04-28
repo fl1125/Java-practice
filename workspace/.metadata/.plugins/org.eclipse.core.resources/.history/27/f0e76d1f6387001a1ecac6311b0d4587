@@ -1,0 +1,15 @@
+package com.itpractice3;
+/*
+ * Collections：
+ * 面试题：Collection和Collections有什么区别？
+ * 		Collection是集合体系的最顶层，包含了集合体系的共性
+ * 		Collections是一个工具类，方法都是用于操作Collection
+ * 
+ */
+public class CollectionsDemo {
+
+	public static void main(String[] args) {
+	
+	}
+
+}

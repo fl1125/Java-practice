@@ -1,0 +1,8 @@
+package com.itpractice;
+
+public class ObjectDemo {
+  public static void main(String[] args) {
+	
+}
+  
+}

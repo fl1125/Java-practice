@@ -1,0 +1,29 @@
+package com.itpractice3;
+
+import java.util.ArrayList;
+
+/*
+ * Collections：
+ * 面试题：Collection和Collections有什么区别？
+ * 		Collection是集合体系的最顶层，包含了集合体系的共性
+ * 		Collections是一个工具类，方法都是用于操作Collection
+ * 
+ * 模拟斗地主发牌
+ * 
+ */
+public class CollectionsDemo {
+
+	public static void main(String[] args) {
+	     
+		String[] arr = {"黑桃","红桃","方块","梅花"};
+		String[] arr2 = {"A","2","3","4","5","6","7","8","9","10","J","Q","K"};
+		
+		ArrayList<String> box = new ArrayList<String>();
+		
+	for (int i = 0; i < arr.length; i++) {
+		
+	}
+		
+	}
+
+}

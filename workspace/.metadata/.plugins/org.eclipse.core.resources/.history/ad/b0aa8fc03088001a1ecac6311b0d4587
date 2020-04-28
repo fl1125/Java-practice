@@ -1,0 +1,16 @@
+package com.itpractice;
+/*
+ *	ÅÐ¶Ï¹¦ÄÜ
+ * 		boolean exists()  
+ * 		boolean isAbsolute()  
+ * 		boolean isDirectory() 
+ 		boolean isFile()  
+ 		boolean isHidden() 
+ */
+public class FileDemo3 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

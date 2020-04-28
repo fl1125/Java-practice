@@ -1,0 +1,22 @@
+package com.itpractice;
+
+import java.io.File;
+
+/*
+ * 	String[] list() 
+ 	File[] listFiles() 
+ 	static File[] listRoots() 
+ */
+public class FileDemo4 {
+
+	public static void main(String[] args) {
+		File f = new File("b");
+		
+		String[] flies = f.list();
+		for (int i = 0; i < flies.length; i++) {
+			System.out.println(files[i]);
+		}
+
+	}
+
+}

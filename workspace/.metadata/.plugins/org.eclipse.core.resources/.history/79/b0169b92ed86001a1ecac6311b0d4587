@@ -1,0 +1,28 @@
+package com.itpractice;
+
+import java.util.HashSet;
+import java.util.Set;
+
+/*
+ * 使用ashSet存储字符串并遍历  
+ * 
+ */
+public class HashSetDemo {
+
+	public static void main(String[] args) {
+	  
+//		HashSet<String> hs = new HashSet<String>();
+//		
+		Set<String> set = new HashSet<String>();
+
+		set.add("java");
+		set.add("hello");
+		set.add("world");
+		
+	    Object[] objs = set.toArray();
+	    for (int i = 0; i < objs.length; i++) {
+			System.out.println(objs[i]);
+		}
+	}
+
+}

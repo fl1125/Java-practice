@@ -1,0 +1,17 @@
+package com.itpractice;
+/*
+ * Throwable的常用方法：
+		String getMessage()  
+		String toString()  
+		void printStackTrace()  
+ 	
+ * 	
+ */
+public class ExceptionDemo4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.itpratice2;
+
+
+import java.io.FileReader;
+import java.io.IOException;
+
+public class FileCopyDemo {
+
+	public static void main(String[] args) throws IOException {
+	   
+		FileReader fr = new FileReader("22.PNG");
+		
+
+	}
+
+}

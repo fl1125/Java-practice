@@ -1,0 +1,16 @@
+package com.itpractice4;
+/*
+ * foreach:增强for循环，一般用于遍历集合或者数组
+ * 格式：
+ * 		for(元素的类型 变量 : 集合或者数组对象) {
+ * 			可以直接使用变量;
+ * 		}
+	注意：在增强for循环中不能修改集合，否则会出现并发修改异常。
+	
+	public interface Iterable<T>
+	实现这个接口允许对象成为 "foreach" 语句的目标。
+
+ */
+public class ForEachDemo {
+
+}

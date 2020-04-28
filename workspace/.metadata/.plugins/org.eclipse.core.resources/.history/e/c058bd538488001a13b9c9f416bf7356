@@ -1,0 +1,31 @@
+package com.itpractice4;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.OutputStream;
+
+/*
+ * 读取项目根目录下的SystemInOutDemo.java，并输出到命令行
+ * 
+ */
+public class OutputStreamWriterDemo {
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new FileReader("SystemInOutDemo.java"));
+		
+		OutputStream os = System.out;
+		
+		String line;
+		while ((line= br.readLine()) != null) {
+	       os.write(line.getBytes());
+	       os.write("\r\n".getBytes());
+			
+		}
+		os.close();
+		br.close();
+
+	}
+
+}

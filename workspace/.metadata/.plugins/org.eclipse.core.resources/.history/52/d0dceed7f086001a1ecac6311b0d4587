@@ -1,0 +1,25 @@
+package com.itpractice;
+/*
+ * 使用HashSet存储自定义对象并遍历
+ * 
+ */
+public class HashSetDemo2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+class Student{
+	String name;
+	int age;
+	
+	public Student(String name, int age) {
+		super();
+		this.name = name;
+		this.age = age;
+	}
+	
+	
+}

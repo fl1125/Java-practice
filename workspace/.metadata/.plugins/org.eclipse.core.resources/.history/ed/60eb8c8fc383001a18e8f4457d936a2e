@@ -1,0 +1,22 @@
+package com.itpractice;
+/*
+ * 继承中成员方法的特点
+ * 
+ */
+public class ExtendsDemo4 {
+
+	public static void main(String[] args) {
+	  Kid k = new Kid();
+	  k.eat();
+
+	}
+}
+  class Dad{
+	  public void eat(){
+		  System.out.println("喝酒");
+		  System.out.println("睡觉"); 
+	  }
+  }
+   class Kid extends Dad{
+	   
+   }

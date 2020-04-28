@@ -1,0 +1,13 @@
+package com.itpractice;
+/*
+ * boolean equals(Object obj)
+ * 
+ * 
+ * 
+ */
+public class ObjectDemo {
+  public static void main(String[] args) {
+	
+}
+  
+}

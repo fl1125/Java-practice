@@ -1,0 +1,18 @@
+package com.itpractice2;
+
+import java.util.HashMap;
+
+public class HashMapDemo2 {
+
+	public static void main(String[] args) {
+	
+		HashMap<Student, String> hm = new HashMap<Student,String>();
+ 
+		Student s = new Student("j",22);
+		Student s = new Student("l",22);
+		
+		
+
+	}
+
+}

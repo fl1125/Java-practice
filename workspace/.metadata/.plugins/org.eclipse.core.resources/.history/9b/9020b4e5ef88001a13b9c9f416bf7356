@@ -1,0 +1,14 @@
+package com.itpractice4;
+/*
+ * 打印流特有功能
+ *    自动换行
+ *    自动刷新
+ * 
+ */
+public class PrintWriterDemo2 {
+
+	public static void main(String[] args) {
+	
+	}
+
+}

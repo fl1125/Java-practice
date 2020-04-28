@@ -1,0 +1,16 @@
+package com.itpractice2;
+/*
+ * System:包含一些有用的类字段和方法。它不能被实例化
+ * static void arraycopy(Object src, int srcPos, Object dest, int destPos, int length)  
+ * static long currentTimeMillis()  
+ * static void exit(int status) 
+   static void gc()  
+ * 
+ */
+public class SystemDemo {
+
+	public static void main(String[] args) {
+	
+	}
+
+}

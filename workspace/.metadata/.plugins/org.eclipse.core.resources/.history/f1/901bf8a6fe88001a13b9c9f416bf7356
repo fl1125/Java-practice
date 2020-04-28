@@ -1,0 +1,36 @@
+package com.itpractice5;
+
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+
+/*
+ * 对象操作流：
+ * 
+ */
+public class ObjectOutoputStreamDemo {
+
+	public static void main(String[] args) throws IOException {
+		
+//		FileOutputStream fos = new FileOutputStream("a.txt");
+//		ObjectOutputStream oos = new ObjectOutputStream(fos);
+//		
+		method();
+		
+	}
+
+	private static void method() throws IOException, FileNotFoundException {
+		ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("a.txt"));
+		
+		Student s = new Student("jack", 14);
+		Student s2 = new Student("bb", 12);
+		
+	    oos.writeObject(s);
+	    oos.writeObject(s2);
+		
+		oos.close();
+	}
+
+}

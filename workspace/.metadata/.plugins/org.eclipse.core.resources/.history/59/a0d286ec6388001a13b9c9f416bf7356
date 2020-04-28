@@ -1,0 +1,30 @@
+package com.itpratice2;
+
+
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+import sun.awt.FwDispatcher;
+
+public class FileCopyDemo {
+
+	public static void main(String[] args) throws IOException {
+	   
+		FileReader fr = new FileReader("22.PNG");
+ 		
+        FileWriter fw = new FileWriter("C:\\Java-practice\\workspace\\myFile\\22.PNG");
+	
+	    int len;
+	    char[] chs = new char[1024];
+	    while((len = fr.read(chs) != -1)){
+	    	fw.write(chs,0,len);
+	    	
+            	    	
+	    }
+        
+	    fr.close();
+	    fw.close();
+	}
+
+}

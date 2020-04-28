@@ -1,0 +1,25 @@
+package com.itpractice;
+/*
+ * 类与类:继承关系，单一继承，多层继承
+ * 类与接口：实现关系，多实现，
+ * 接口与接口的关系：
+ * 
+ * 
+ */
+public class InterfaceDemo3 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
+interface InterA{
+	public abstract void method();
+}
+interface InterB{
+	
+}
+class Demo implements InterA,InterB{
+	
+}

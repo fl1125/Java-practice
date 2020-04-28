@@ -1,0 +1,13 @@
+package com.itpractice;
+/*
+ * 使用HashSet存储自定义对象并遍历
+ * 
+ */
+public class HashSetDemo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

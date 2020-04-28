@@ -1,0 +1,16 @@
+package com.itpractice;
+/*
+ * 抽象类的特点：
+ * 
+ * 
+ */
+
+public class AbstractDemo2 {
+
+	public static void main(String[] args) {
+
+	}
+}
+abstract class Animal{
+	public abstract void eat();;
+}

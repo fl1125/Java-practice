@@ -1,0 +1,16 @@
+package com.itpractice2;
+/*
+ * È¨ÏÞÐÞÊÎ·û£º
+ * public
+ * default
+ * private
+ * protected
+ * 
+ */
+public class PermissionsDemo {
+
+	public void publicMethod(){
+		System.out.println("publicMethod");
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.itpratice;
+/*
+ *	
+ * 	多态的优缺点
+ * 		优点：可以提高可维护性（多态前提所保证的），提高代码的可扩展性
+		缺点：无法直接访问子类特有的成员
+ */
+public class PoymorphicDemo4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

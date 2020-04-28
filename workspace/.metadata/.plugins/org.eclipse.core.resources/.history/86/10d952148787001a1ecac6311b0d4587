@@ -1,0 +1,17 @@
+package com.itpractice2;
+
+import java.util.HashMap;
+
+public class HashMapDemo2 {
+
+	public static void main(String[] args) {
+	
+		HashMap<String, String> hm = new HashMap<String,String>();
+		hm.put("ITCAST001", "张三");
+		hm.put("ITCAST002", "李四");
+		hm.put("ITCAST003", "王五");
+		hm.put("ITCAST003", "赵六");
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.itpractice;
+
+public class InterfaceDemo {
+
+}
+class Porgrammer{
+	public void code(){
+		System.out.println("coding");
+	}
+}
+
+class BillGates{
+	
+}

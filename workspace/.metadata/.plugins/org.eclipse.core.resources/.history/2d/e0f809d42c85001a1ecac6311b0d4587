@@ -1,0 +1,29 @@
+package com.itpractice;
+
+import com.itpractice.Outer.Inner;
+
+public class InnerDemo2 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
+
+
+class Outer2{
+    public void method(){
+    	 Inner2 i = new Inner2();
+    }	
+    
+    static class Inner2{
+      
+    	 public static void function(){
+	         System.out.println("function");
+	   
+      }
+    } 
+}
+
+

@@ -1,0 +1,23 @@
+package com.itpractice4;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+
+/*
+ * 需求： 读取键盘录入的数据，并输出到项目根目录下的a.txt文件中
+ * 
+ */
+public class IntputStreamReaderDemo {
+
+	public static void main(String[] args) throws IOException {
+	      
+		InputStream is = System.in;
+		
+		FileWriter fw = new FileWriter("a.txt");
+		
+		
+		
+	}
+
+}

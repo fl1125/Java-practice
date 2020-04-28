@@ -1,0 +1,19 @@
+package com.itpractice;
+/*
+ *  接口的成员特点：
+ *  
+ * 
+ * 
+ */
+public class InterfaceDemo2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+interface Animal{
+	public abstract void eat();
+	
+}

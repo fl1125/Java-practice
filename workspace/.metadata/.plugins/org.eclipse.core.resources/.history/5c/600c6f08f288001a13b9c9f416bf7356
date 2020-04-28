@@ -1,0 +1,15 @@
+package com.itpractice4;
+/*
+ * 使用打印流复制文本文件
+ *   数据源   SystemInOutDemo.java  BufferedReader
+ *   目的地  "C:\\Java-practice\\workspace\\myFile\\IODemo.java"
+ * 
+ */
+public class PrintWriterDemo3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

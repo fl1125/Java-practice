@@ -1,0 +1,25 @@
+package com.itpractice4;
+
+import java.text.SimpleDateFormat;
+
+/*
+ * SimpleDateFormat
+ *    格式化：
+ *    Date -- String
+ *    String format(Date date)
+ *    解析： 
+ *    String --Date
+ *    Date parse(String sources)
+ */
+public class DateFormat {
+
+	public static void main(String[] args) {
+        SimpleDateFormat sdf = new SimpleDateFormat();
+        
+        Date date = new Date();
+        
+        
+
+	}
+
+}

@@ -1,0 +1,29 @@
+package com.itpractice7;
+/*
+ * 	校验qq号码
+* 		要求必须是5-15位
+* 		0不能开头
+* 		必须都是数字
+	
+	正则表达式：就是一套规则，可以用于匹配字符串
+	
+	boolean matches(String regex) ：判断当前字符串是否匹配指定的正则表达式，如果匹配则返回true，否则返回false
+* 
+*  
+ */
+public class RegexDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static boolean checkQQ(String qq){
+		
+		int length = qq.length();
+		
+		return true;//符合要求
+		
+	}
+
+}

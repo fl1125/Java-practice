@@ -1,0 +1,16 @@
+package com.itpractice4;
+/*
+ * 打印流：
+ *    PrintStream
+ *    PrintWriter
+ *    
+ * 
+ * 只能输出不能输入
+ */
+public class PrintWriterDemo {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

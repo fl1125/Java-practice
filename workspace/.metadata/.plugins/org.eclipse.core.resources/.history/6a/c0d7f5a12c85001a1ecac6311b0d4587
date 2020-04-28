@@ -1,0 +1,24 @@
+package com.itpractice;
+
+public class InnerDemo2 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
+
+
+class Outer2{
+    public void method(){
+    	
+    }	
+    
+   public static void Inner2{
+	   System.out.println("function");
+	   
+   }
+}
+
+

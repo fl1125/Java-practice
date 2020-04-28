@@ -1,0 +1,23 @@
+package com.itpractice;
+/*
+ * 匿名对象：没有名字的对象
+ * 
+ * 
+ */
+public class AnonymousObjectDemo {
+
+	public static void main(String[] args) {
+      Student s  = new Student(0);
+      s.study();
+
+	}
+
+}
+class Student{
+	String name;
+	int age;
+	
+	public void study(){
+		System.out.println("good");
+	}
+}

@@ -1,0 +1,24 @@
+package com.itpratice;
+/*
+ * 多态的成员特点：
+ *    成员变量
+ *    成员方法
+ *    静态方法
+ * 
+ * 
+ */
+public class PoymorphicDemo2 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
+class Dad{
+	
+}
+
+class Kid extends Dad{
+	int num = 10;
+}

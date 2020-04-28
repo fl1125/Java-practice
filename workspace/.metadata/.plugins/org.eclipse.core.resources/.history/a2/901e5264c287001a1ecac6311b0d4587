@@ -1,0 +1,13 @@
+package com.itpractice;
+/*
+ * 需求：求51的阶乘
+ * 
+ */
+public class RecurrenceDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

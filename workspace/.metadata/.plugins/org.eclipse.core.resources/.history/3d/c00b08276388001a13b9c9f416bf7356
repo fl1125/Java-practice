@@ -1,0 +1,14 @@
+package com.itpratice2;
+
+import java.io.FileReader;
+
+public class FileCopyDemo {
+
+	public static void main(String[] args) {
+	   
+		FileReader fr = new FileReader("22.PNG");
+		
+
+	}
+
+}

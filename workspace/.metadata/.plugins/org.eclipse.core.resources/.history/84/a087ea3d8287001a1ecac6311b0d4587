@@ -1,0 +1,23 @@
+package com.itpractice;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/*
+ * Set<K> keySet()
+ * Collection<v> values()
+ * 
+ * 
+ */
+public class MapDemo3 {
+
+	public static void main(String[] args) {
+     Map<String, String> map = new HashMap<String,String>();
+     
+     map.put("001", "zhang");
+     map.put("002", "li");
+     map.put("003", "liu");
+
+	}
+
+}

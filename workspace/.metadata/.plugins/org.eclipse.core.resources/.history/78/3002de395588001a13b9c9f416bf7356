@@ -1,0 +1,19 @@
+package com.itpractice2;
+
+import java.io.File;
+
+/*
+ * 输出指定目录下所有的java文件名（包含子目录）
+ * 
+ */
+public class RecurrenceTest {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	public static void method(File File){
+	     File[] files = file.listFiles();
+	     
+	}
+}

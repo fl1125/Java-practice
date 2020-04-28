@@ -1,0 +1,14 @@
+package com.itpractice2;
+/*
+ * 
+ * 使用HashMap存储数据并遍历（字符串作为key）
+ * 
+ */
+public class HashMapDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

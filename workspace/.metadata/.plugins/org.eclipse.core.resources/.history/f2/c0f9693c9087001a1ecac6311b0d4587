@@ -1,0 +1,8 @@
+package com.itpractice;
+
+public class ExcptionDemo {
+	public static void main(String[] args) {
+		
+	}
+
+}

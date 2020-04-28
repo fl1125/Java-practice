@@ -1,0 +1,17 @@
+package com.itpractice;
+
+import java.util.HashMap;
+import java.util.Map;
+
+//Set<Map.Entry<K,V>> entrySet()  
+
+public class MapDemo5 {
+
+	public static void main(String[] args) {
+	  
+		Map<String, String> map = new HashMap<String, String>();
+		
+
+	}
+
+}

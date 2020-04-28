@@ -1,0 +1,13 @@
+package com.itpractice4;
+/*
+ * SimpleDateFormat
+ * 
+ */
+public class DateFormat {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}

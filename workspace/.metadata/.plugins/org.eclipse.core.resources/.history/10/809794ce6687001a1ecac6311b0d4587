@@ -1,0 +1,38 @@
+package com.itpractice;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/*
+ * 	Map的常用功能：
+ * 		映射功能：
+ * 			 	V put(K key, V value) 
+ * 		获取功能：
+ * 				V get(Object key) 
+ * 				int size() 
+ * 		判断功能：
+ * 				boolean containsKey(Object key) 
+ 				boolean containsValue(Object value) 
+ 				boolean isEmpty() 
+ 
+ * 		删除功能：
+ * 				void clear()  
+ * 				V remove(Object key)  
+ * 
+ * 		遍历功能：
+ * 				Set<Map.Entry<K,V>> entrySet() 
+ * 
+ * 
+ * 			Set<K> keySet()  
+ * 			Collection<V> values()  
+ 
+ */
+public class MapDemo2 {
+     public static void main(String[] args) {
+		
+    	 Map<String, String> map = new HashMap<String, String>();
+    	 
+    	 System.out.println(map.put("001", "zhangsan"));
+    	 System.out.println(map);
+	}
+}

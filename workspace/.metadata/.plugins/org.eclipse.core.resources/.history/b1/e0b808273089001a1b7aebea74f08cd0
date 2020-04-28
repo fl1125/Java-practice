@@ -1,0 +1,63 @@
+package com.Test1;
+
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import javax.imageio.ImageIO;
+
+/*
+ *   把彩色照片转换成黑白照片的 java程序。
+         从控制台输入照片的路径，然后输出转换后的照片文件到原照片所在的路径下
+ *   
+ * 
+ */
+public class Test {
+
+	public static void main(String[] args) {
+//	  
+//		BufferedImage image = null;
+//		File file =null;
+		
+		String imgPath = "C:\\Java-practice\\workspace\\TansformPicture\\001.jpg";
+	
+		try{
+			BufferedImage image =  ImageIO.read(new FileInputStream(imgPath));
+			
+		
+			
+			
+			int width = image.getWidth();
+			int height = image.getHeight();
+			
+			for(int j=0 ; j<height; j++){
+				for(int i=0; i<width; i++){
+					int p = image.getRGB(i, j);
+					
+					int a = (p >> 24) & 0xff;
+					int r = (p >> 16) & 0xff;
+					int g = (p >> 8) & 0xff;
+					int b = p & 0xff;
+					
+					int average = (r + g + b) / 3;
+					
+					p = (a << 24) | (average << 16) | (average << 8) | average;
+					
+					image.setRGB(i, j, p);
+					
+				}
+			}
+		
+			File outputfile = new File("C:\\Java-practice\\workspace\\TansformPicture\\Out.jpg");
+			ImageIO.write(image, "jpg", outputfile);
+		}catch (IOException e) {
+			System.out.println(e);
+			
+		}
+		
+
+
+	}
+
+}

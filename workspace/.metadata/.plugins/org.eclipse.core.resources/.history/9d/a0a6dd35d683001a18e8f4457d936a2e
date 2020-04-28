@@ -1,0 +1,24 @@
+package com.itpractice;
+
+public class AbstractDemo {
+
+	public static void main(String[] args) {
+	
+	}
+
+}
+
+class Animal{
+	public void eat()
+}
+
+class Cat{
+	/*public void eat(){
+		System.out.println("√®≥‘”„");
+	}*/
+}
+class Dog{
+	/*public void eat(){
+		System.out.println("π∑≥‘»‚");
+	}*/
+}
