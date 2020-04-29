@@ -1,0 +1,14 @@
+package test;
+
+import java.net.ServerSocket;
+
+public class ServerTest {
+
+	public static void main(String[] args) {
+	
+		ServerSocket ss = new ServerSocket();
+		
+		
+	}
+
+}

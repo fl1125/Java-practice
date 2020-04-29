@@ -1,0 +1,21 @@
+package com.itpractice7;
+/*
+ * 编码表：
+ *    ASCII
+ *    
+ *    GB2312---GBK
+ *    Unicode 所有的字符都占2个字节
+ *    utf-8  长度可变的码表
+ *    
+ *    ANSI：本地编码表
+ *    
+ */
+public class EncoderDemo {
+
+	public static void main(String[] args) {
+	    String s = "一二三"；
+		
+		
+	}
+
+}

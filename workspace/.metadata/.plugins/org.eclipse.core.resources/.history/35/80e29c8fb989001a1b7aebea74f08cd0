@@ -1,0 +1,19 @@
+package com.itpractice3;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class ServerDemo {
+
+	public static void main(String[] args) throws IOException {
+//   创建服务端Socket对象
+		ServerSocket ss = new ServerSocket(90);
+		
+//		监听
+		Socket s = ss.accept();
+		
+		
+	}
+
+}

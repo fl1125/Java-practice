@@ -1,0 +1,21 @@
+package com.itpractice3;
+
+public class TicketThread implements Runnable {
+     int tickets = 100;
+	
+	@Override
+	public void run() {
+//		³öÊÛ»ğ³µÆ±
+		
+		while(true){
+			
+			 Thread.sleep(100);
+			
+			if(tickets>0){
+				System.out.println(Thread.currentThread().getName() + ":"+tickets--);
+				
+			}
+		}
+	}
+
+}

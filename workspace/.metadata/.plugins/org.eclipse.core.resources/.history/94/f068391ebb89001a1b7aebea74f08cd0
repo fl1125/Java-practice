@@ -1,0 +1,14 @@
+package test;
+/*
+ *    启动一个tcp端口监听90端口，然后再启动一个连接这个端口把文件传过去。
+                监听程序收到文件后，计算文件大小，并在控制台输出
+ */
+public class MyTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+ 

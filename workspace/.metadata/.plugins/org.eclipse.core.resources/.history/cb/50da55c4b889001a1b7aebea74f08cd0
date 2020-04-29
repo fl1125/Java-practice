@@ -1,0 +1,25 @@
+package com.itpractice3;
+
+import java.net.InetAddress;
+import java.net.Socket;
+
+/*
+ * 需求：使用TCP协议发送数据，并将接受到的数据转换为大写返回
+ * 
+ *  客户端发出数据
+ *  服务端接收数据
+ *  服务端转换数据
+ *  服务端发送数据
+ *  客户端接受数据
+ * 
+ */
+public class ClientDemo {
+
+	public static void main(String[] args) {
+	
+//		创建客户端Socker对象
+		Socket s = new Socket(InetAddress.getByName("home"),90);
+		
+	}
+
+}

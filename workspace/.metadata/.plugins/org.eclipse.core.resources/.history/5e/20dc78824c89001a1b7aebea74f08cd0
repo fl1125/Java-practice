@@ -1,0 +1,22 @@
+package com.itpractice;
+
+public class ThreadDemo2 {
+
+	public static void main(String[] args) {
+   
+		
+//		创建线程实例
+		MyThread mt = new MyThread();
+		
+//		启动线程
+		mt.start();
+		
+		
+		MyThread mt2 = new MyThread();
+		mt2.start();
+		
+		
+		
+	}
+
+}

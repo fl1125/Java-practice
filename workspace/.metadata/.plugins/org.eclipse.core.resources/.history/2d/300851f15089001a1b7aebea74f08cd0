@@ -1,0 +1,20 @@
+package com.itpractice3;
+/*
+ * 模拟火车站售票
+ *		
+ *		分析：
+ *				首相需要有火车票的总数量，每售出一张则数量减一
+ *				当火车票的数量小于1的时候，停止售票
+ *				使用多线程模拟多个窗口进行售票
+ *				当火车票全部售完，火车站也一样敞开大门欢迎我们
+ *
+ *		static void sleep(long millis) : 让当前线程睡一会
+ */
+public class TicketTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

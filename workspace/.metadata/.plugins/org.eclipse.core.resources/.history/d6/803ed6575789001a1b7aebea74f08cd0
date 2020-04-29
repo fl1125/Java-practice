@@ -1,0 +1,27 @@
+package com.itpractice2;
+/*
+ * 使用UDP协议发送数据
+ *    创建发送端Socket对象
+ *    创建数据并打包
+ *    发送数据
+ *    释放资源
+ * 
+ * DategramSocket():创建Socket对象并随机分端口号
+ * DategramSocket(int port):创建Socket对象并指定端口号
+ * 
+ */
+public class SendDemo {
+
+	public static void main(String[] args) {
+//		   创建发送端Socket对象
+        DategramSocket ds = new DategramSoket();		  
+//		      创建数据并打包
+		
+//		       发送数据
+		
+//		       释放资源
+		
+		
+	}
+
+}

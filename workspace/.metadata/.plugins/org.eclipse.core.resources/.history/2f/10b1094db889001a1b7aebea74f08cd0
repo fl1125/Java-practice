@@ -1,0 +1,13 @@
+package com.itpractice3;
+/*
+ * 需求：使用TCP协议发送数据，并将接受到的数据转换为大写	返回
+ * 
+ * 
+ */
+public class ClientDemo {
+
+	public static void main(String[] args) {
+	
+	}
+
+}

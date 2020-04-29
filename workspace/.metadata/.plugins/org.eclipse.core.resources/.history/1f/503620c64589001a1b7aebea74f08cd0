@@ -1,0 +1,18 @@
+package com.itpractice6;
+
+import java.util.Properties;
+
+public class PropertiesDemo {
+
+	public static void main(String[] args) {
+		
+		Properties prop = new Properties();
+		
+		prop.put("001", "zhang");
+		prop.put("002", "li");
+		prop.put("003", "wang");
+		
+
+	}
+
+}

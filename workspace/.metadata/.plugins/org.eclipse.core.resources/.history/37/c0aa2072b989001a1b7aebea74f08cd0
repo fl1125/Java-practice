@@ -1,0 +1,11 @@
+package com.itpractice3;
+
+public class ServerDemo {
+
+	public static void main(String[] args) {
+//   创建服务端Socket对象
+		ServerSocket ss = new 
+		
+	}
+
+}

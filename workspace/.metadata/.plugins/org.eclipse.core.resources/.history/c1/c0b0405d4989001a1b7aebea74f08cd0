@@ -1,0 +1,18 @@
+package com.itpractice7;
+/*
+ * ±àÂë±í£º
+ *    ASCII
+ *    
+ *    GB2312---GBK
+ *    Unicode
+ *    
+ */
+public class EncoderDemo {
+
+	public static void main(String[] args) {
+	    
+		
+		
+	}
+
+}
