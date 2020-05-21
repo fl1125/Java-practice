@@ -1,0 +1,18 @@
+package com.itpractice5;
+
+import java.net.ServerSocket;
+
+public class ServerTest {
+
+	public static void main(String[] args) {
+//   	创建服务端Socket对象
+		ServerSocket ss = new ServerSocket();
+//		监听
+//		获取输入流对象
+//		获取用户名和密码
+//		判断用户名和密码是否正确
+//		返回判断信息
+//		释放资源
+	}
+
+}

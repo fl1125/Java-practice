@@ -1,0 +1,13 @@
+package com.itpractice4;
+/*
+ * UPD协议收发数据的注意事项
+ * 
+ */
+public class SendDemo2 {
+
+	public static void main(String[] args) {
+
+		
+	}
+
+}

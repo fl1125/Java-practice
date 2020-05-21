@@ -1,0 +1,21 @@
+package com.itpractice5;
+/*
+ *  模拟客户登录
+ *  
+ * 
+ * 
+ */
+public class ClientTest {
+
+	public static void main(String[] args) {
+//		创建客户端Socket对象
+//	            获取用户名和密码
+//		获取输出流对象
+//		写出对象
+		
+//		获取输入流对象
+//		获取服务器返回的数据
+//		释放资源
+	}
+
+}

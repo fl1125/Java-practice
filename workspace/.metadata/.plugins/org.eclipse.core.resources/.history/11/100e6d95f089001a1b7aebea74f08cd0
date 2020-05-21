@@ -1,0 +1,32 @@
+package com.itpractice5;
+
+import java.io.IOException;
+import java.net.InetAddress;
+import java.net.Socket;
+import java.net.UnknownHostException;
+
+/*
+ *  模拟客户登录
+ *  
+ * 
+ * 
+ */
+public class ClientTest {
+
+	public static void main(String[] args) throws IOException, IOException {
+//		创建客户端Socket对象
+//		Socket s = new Socket(InetAddress.getByName("home" ),9999);
+        Socket s  = new Socket("home", 9999);
+        
+//	            获取用户名和密码
+        System.in;
+//		获取输出流对象
+        
+//		写出对象
+		
+//		获取输入流对象
+//		获取服务器返回的数据
+//		释放资源
+	}
+
+}

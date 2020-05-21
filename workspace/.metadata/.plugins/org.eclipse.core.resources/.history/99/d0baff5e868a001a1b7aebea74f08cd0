@@ -1,0 +1,9 @@
+package com.itpractice5;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class UserDB {
+    private List<User> user = new ArrayList<User>();
+    
+}

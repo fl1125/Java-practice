@@ -1,0 +1,22 @@
+package com.itpractice4;
+
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+
+/*
+ * UPD协议收发数据的注意事项
+ * 
+ */
+public class SendDemo2 {
+
+	public static void main(String[] args) {
+       
+		
+		DatagramSocket ds = new DatagramSocket();
+		
+		byte[] bys = "hello!!!!!";
+		DatagramPacket dp = new DatagramPacket(null, 0, 0, null)
+		
+	}
+
+}

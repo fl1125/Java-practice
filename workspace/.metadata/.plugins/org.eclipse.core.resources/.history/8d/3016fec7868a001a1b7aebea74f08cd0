@@ -1,0 +1,13 @@
+package com.itpractice5;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class UserDB {
+    private static List<User> users = new ArrayList<User>();
+    
+    static{
+       users.add(new User());
+       
+    }
+}
